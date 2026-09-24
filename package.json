@@ -19,7 +19,7 @@
     "@expo-google-fonts/inter": "^0.4.2",
     "@expo-google-fonts/jetbrains-mono": "^0.4.1",
     "@expo-google-fonts/plus-jakarta-sans": "^0.4.2",
-    "@otfdashkit/ui-native": "^0.1.7",
+    "@otfdashkit/ui-native": "^0.1.12",
     "@otfdashkit/tokens": "^0.1.1",
     "@shopify/react-native-skia": "2.2.12",
     "@tamagui/lucide-icons": "^1.144.4",
@@ -56,8 +56,14 @@
     "tar": "^7.5.16",
     "js-yaml": "^4.2.0",
     "ws": "^7.5.11",
-    "react-native": { "ws": "^6.2.4" },
-    "@react-native/dev-middleware": { "ws": "^6.2.4" },
-    "expo": { "ws": "^8.21.0" }
+    "react-native": {
+      "ws": "^6.2.4"
+    },
+    "@react-native/dev-middleware": {
+      "ws": "^6.2.4"
+    },
+    "expo": {
+      "ws": "^8.21.0"
+    }
   }
 }
