@@ -7,8 +7,14 @@
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
-    "runtimeVersion": { "policy": "sdkVersion" },
-    "platforms": ["ios", "android", "web"],
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "web": {
       "bundler": "metro",
       "output": "single"
@@ -17,7 +23,9 @@
       "expo-router",
       "expo-font"
     ],
-    "experiments": { "typedRoutes": true },
+    "experiments": {
+      "typedRoutes": true
+    },
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.otf.uinative-showcase"
@@ -26,13 +34,9 @@
       "package": "com.otf.uinative_showcase"
     },
     "extra": {
-      "router": { "origin": false },
-      "eas": {
-        "projectId": "31d0aa44-4713-44d9-91aa-c2e2c58c08ad"
+      "router": {
+        "origin": false
       }
-    },
-    "updates": {
-      "url": "https://u.expo.dev/31d0aa44-4713-44d9-91aa-c2e2c58c08ad"
     }
   }
 }
