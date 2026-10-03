@@ -21,7 +21,7 @@ The web gallery starts at `http://localhost:3010`. For an Expo device session, r
 - `components/catalog.ts` defines gallery entries.
 - `components/` contains the shared showcase frame, navigation, and theme controls.
 
-The [phone preview](https://native-preview.otf-kit.dev/) wraps the gallery and offers an Expo Go QR card. The [full gallery](https://native.otf-kit.dev/) displays the same app without the frame.
+The [phone preview](https://native-preview.otf-kit.dev/) wraps the gallery and offers a QR card for the OTF Kits download page. The [full gallery](https://native.otf-kit.dev/) displays the same app without the frame.
 
 ## Add a component screen
 
